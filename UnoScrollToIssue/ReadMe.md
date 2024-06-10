@@ -1,7 +1,4 @@
 # Getting Started
 
-Welcome to the Uno Platform!
+Issue repoted as no #17080 Calling the unimplemented method ScrollTo on ScrollView results in the exception Vector3KeyFrameAnimation Compositor.CreateVector3KeyFrameAnimation() is not implemented on Androis, iOS and WASM
 
-To discover how to get started with your new app: https://aka.platform.uno/get-started
-
-For more information on how to use the Uno.Sdk or upgrade Uno Platform packages in your solution: https://aka.platform.uno/using-uno-sdk
