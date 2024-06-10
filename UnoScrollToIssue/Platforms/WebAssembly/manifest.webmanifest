@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoScrollToIssue",
+  "display": "standalone",
+  "name": "UnoScrollToIssue",
+  "short_name": "UnoScrollToIssue",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

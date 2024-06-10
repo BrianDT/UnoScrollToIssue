@@ -1,0 +1,16 @@
+﻿<Page x:Class="UnoScrollToIssue.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:UnoScrollToIssue"
+      Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+  <Grid
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center">
+    <ScrollView x:Name="primaryContent" HorizontalScrollBarVisibility="Auto"
+                                  VerticalScrollBarVisibility="Auto">
+      <TextBlock AutomationProperties.AutomationId="HelloTextBlock"
+          Text="Call ScrollView.ScrollTo on Load"
+          HorizontalAlignment="Center" />
+    </ScrollView>
+  </Grid>
+</Page>
